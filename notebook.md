@@ -20,9 +20,7 @@ At the top, begin a table of contents, Ex.:
 ### Key Terms and Definitions
 
 | Term             | Definition                                      | Example / Notes                          |
-|------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
+|------------------|--------------------------------------------------|---------------------| Widget           |                                                  |                          | MaterialApp      |                                                  |                                           |
 | Scaffold         |                                                  |                                           |
 | StatelessWidget  |                                                  |                                           |
 | StatefulWidget   |                                                  |                                           |
